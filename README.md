@@ -1,2 +1,2 @@
 # portfolio
-Data Analyst Portfolio of Jato Joseph
+Data Analyst Portfolio of Ahokegh Samuel 
